@@ -2,5 +2,8 @@ To install this app . Downlaod the ZIP File included and extract in the desired 
 then , You can Create and copy MOTD text for your own uses 
 
 DONATIONS : Contact me in Instagram : hitman.1306
+
+
 Also , im currently working in a cheap and easy to run in various devices to enable many people playing it, in older devices . Mobile and Computer , Indie Story game, Currently in Progress
 Engine used : Godot Open source Engine 
+Please check out my profile for further details and LINK TO MY PROFILE 
